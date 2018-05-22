@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1527024110217.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "45D30838",
+    "lastKnownWriteTime" : 1527027710,
+    "last_content_update" : 1527027710325,
+    "path" : "~/Documents/newest-quickstart/content/post/2018-05-22-test-post.Rmd",
+    "project_path" : "content/post/2018-05-22-test-post.Rmd",
+    "properties" : {
+        "cursorPosition" : "14,30",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
